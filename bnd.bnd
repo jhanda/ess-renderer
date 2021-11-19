@@ -1,0 +1,4 @@
+Bundle-Name: ess-render
+Bundle-SymbolicName: com.liferay.commerce.demo.ess.renderer
+Bundle-Version: 1.0.0
+Web-ContextPath: /ess-renderer
