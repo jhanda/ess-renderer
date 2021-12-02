@@ -31,7 +31,8 @@ import java.util.ResourceBundle;
                 "commerce.product.content.list.renderer.key=" + EssRender.KEY,
                 "commerce.product.content.list.renderer.order=600",
                 "commerce.product.content.list.renderer.portlet.name=" + CPPortletKeys.CP_PUBLISHER_WEB,
-                "commerce.product.content.list.renderer.portlet.name=" + CPPortletKeys.CP_SEARCH_RESULTS
+                "commerce.product.content.list.renderer.portlet.name=" + CPPortletKeys.CP_SEARCH_RESULTS,
+                "commerce.product.content.list.renderer.portlet.name=" + CPPortletKeys.CP_COMPARE_CONTENT_WEB
         },
         service = CPContentListRenderer.class
 )
